@@ -25,7 +25,7 @@ public class CreateCapaignTest {
 		
 		System.out.println("url");
 		System.out.println("welcome to jenkins");
-		
+		System.out.println("welcome to git hub");
 		driver.close();
 		
 	}
